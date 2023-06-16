@@ -1,2 +1,3 @@
-# Flow-over-external-compression-inlet
-For the 290C, Computational Fluid Dynamics final project, we will be solving compressible Navier Stokes Equations over an external compression inlet using McCormack differential method with grid transformation and block structuring.
+# Supersonic-flow-over-external-compression-inlet
+
+For the final project of MAE290C(CFD course) taken at UCSD, a supersonic flow over an external compression inlet was simulated using DNS. The main numerical method used was the McCormack method. Specific features of the code include grid transformation and block structuring. See full report for detail
